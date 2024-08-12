@@ -1,0 +1,54 @@
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.exe
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.pdb
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.csprojResolveAssemblyReference.cache
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Form1.resources
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Properties.Resources.resources
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.csproj.GenerateResource.Cache
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.exe
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.pdb
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QL_Đặt_Phòng.resources
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.exe.config
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QLNS.resources
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.ThemNV.resources
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.CapNhatNV.resources
+D:\UNIVERSITY\HK2 -Năm 3\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.ThemDV.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.exe.config
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.exe
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.pdb
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.csproj.AssemblyReference.cache
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.CapNhatNV.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QL_Đặt_Phòng.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QLNS.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.ThemDV.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.ThemNV.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Form1.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Properties.Resources.resources
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.csproj.GenerateResource.cache
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.csproj.CoreCompileInputs.cache
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.exe
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.pdb
+E:\Freelancer\KaraokeManager\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Thanhtoan.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.exe.config
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.exe
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.pdb
+D:\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.exe
+D:\KaraokeNeeNee\KaraokeNeeNee\bin\Debug\KaraokeNeeNee.pdb
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.csprojResolveAssemblyReference.cache
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.CapNhatNV.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QL_Đặt_Phòng.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QLNS.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Thanhtoan.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.ThemNV.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Form1.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.Properties.Resources.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.csproj.GenerateResource.Cache
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QLTK.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.FormChinh.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QuanLyDichVu.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.ThemDV.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.CapNhatDV.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QuanLyHoaDon.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.XemHD.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.CapNhatTB.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.QuanLyThietBi.resources
+D:\KaraokeNeeNee\KaraokeNeeNee\obj\Debug\KaraokeNeeNee.ThemTB.resources

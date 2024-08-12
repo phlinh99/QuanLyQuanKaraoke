@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6D5B935-9287-45FA-BCA9-5399B771ED3B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KaraokeNeeNee</RootNamespace>
+    <AssemblyName>KaraokeNeeNee</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CapNhatDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatDV.Designer.cs">
+      <DependentUpon>CapNhatDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapNhatNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatNV.Designer.cs">
+      <DependentUpon>CapNhatNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapNhatTB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatTB.Designer.cs">
+      <DependentUpon>CapNhatTB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\Room.cs" />
+    <Compile Include="FormChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinh.Designer.cs">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL Đặt Phòng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL Đặt Phòng.Designer.cs">
+      <DependentUpon>QL Đặt Phòng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLNS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLNS.Designer.cs">
+      <DependentUpon>QLNS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLTK.Designer.cs">
+      <DependentUpon>QLTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyDichVu.Designer.cs">
+      <DependentUpon>QuanLyDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyHoaDon.Designer.cs">
+      <DependentUpon>QuanLyHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThietBi.Designer.cs">
+      <DependentUpon>QuanLyThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thanhtoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thanhtoan.Designer.cs">
+      <DependentUpon>Thanhtoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemDV.Designer.cs">
+      <DependentUpon>ThemDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemNV.Designer.cs">
+      <DependentUpon>ThemNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemTB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemTB.Designer.cs">
+      <DependentUpon>ThemTB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XemHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XemHD.Designer.cs">
+      <DependentUpon>XemHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đăng Nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Đăng Nhập.Designer.cs">
+      <DependentUpon>Đăng Nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CapNhatDV.resx">
+      <DependentUpon>CapNhatDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapNhatNV.resx">
+      <DependentUpon>CapNhatNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapNhatTB.resx">
+      <DependentUpon>CapNhatTB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChinh.resx">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL Đặt Phòng.resx">
+      <DependentUpon>QL Đặt Phòng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLNS.resx">
+      <DependentUpon>QLNS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLTK.resx">
+      <DependentUpon>QLTK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyDichVu.resx">
+      <DependentUpon>QuanLyDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyHoaDon.resx">
+      <DependentUpon>QuanLyHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThietBi.resx">
+      <DependentUpon>QuanLyThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thanhtoan.resx">
+      <DependentUpon>Thanhtoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemDV.resx">
+      <DependentUpon>ThemDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemNV.resx">
+      <DependentUpon>ThemNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemTB.resx">
+      <DependentUpon>ThemTB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XemHD.resx">
+      <DependentUpon>XemHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đăng Nhập.resx">
+      <DependentUpon>Đăng Nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-04-29 003416.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AC21PJ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-delicate-textured-background-pastel-pink-wall-paint-image_13647899.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-delicate-textured-background-pastel-pink-wall-paint-image_136478991.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2c4d79d9-da90-4642-bd09-3d26d2e8ae3b.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
